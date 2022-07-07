@@ -1,0 +1,353 @@
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\appsettings.Development.json
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\appsettings.json
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.exe
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.deps.json
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.runtimeconfig.json
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.runtimeconfig.dev.json
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ref\Tracker.API.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ExcelDataReader.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ExcelDataReader.DataSet.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Humanizer.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\MailKit.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNet.Identity.Core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Data.Sqlite.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Identity.Client.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\MimeKit.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\BouncyCastle.Crypto.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\SQLitePCLRaw.core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.AttributedModel.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.Convention.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.Hosting.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.Runtime.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.TypedParts.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.IO.Pipelines.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Runtime.Caching.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Data.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Domain.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Core.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Data.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Domain.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.csproj.AssemblyReference.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.AssemblyInfoInputs.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.AssemblyInfo.cs
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.csproj.CoreCompileInputs.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.MvcApplicationPartsAssemblyInfo.cs
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.MvcApplicationPartsAssemblyInfo.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\staticwebassets\Tracker.API.StaticWebAssets.Manifest.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\staticwebassets\Tracker.API.StaticWebAssets.xml
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\scopedcss\bundle\Tracker.API.styles.css
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.RazorTargetAssemblyInfo.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.csproj.CopyComplete
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\ref\Tracker.API.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.genruntimeconfig.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\appsettings.Development.json
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\appsettings.json
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.exe
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.deps.json
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.runtimeconfig.json
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.runtimeconfig.dev.json
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ref\Tracker.API.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.API.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ExcelDataReader.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ExcelDataReader.DataSet.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Humanizer.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\MailKit.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNet.Identity.Core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Data.Sqlite.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Extensions.Primitives.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.Identity.Client.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\MimeKit.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\BouncyCastle.Crypto.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\SQLitePCLRaw.core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.AttributedModel.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.Convention.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.Hosting.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.Runtime.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Composition.TypedParts.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.IO.Pipelines.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Runtime.Caching.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Twilio.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Data.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Domain.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Core.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Data.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\bin\Release\net5.0\Tracker.Domain.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.csproj.AssemblyReference.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.AssemblyInfoInputs.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.AssemblyInfo.cs
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.csproj.CoreCompileInputs.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.MvcApplicationPartsAssemblyInfo.cs
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.MvcApplicationPartsAssemblyInfo.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\staticwebassets\Tracker.API.StaticWebAssets.Manifest.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\staticwebassets\Tracker.API.StaticWebAssets.xml
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\scopedcss\bundle\Tracker.API.styles.css
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.RazorTargetAssemblyInfo.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.csproj.CopyComplete
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\ref\Tracker.API.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\TrackingSystemAPI\obj\Release\net5.0\Tracker.API.genruntimeconfig.cache

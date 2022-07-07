@@ -1,0 +1,51 @@
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.deps.json
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\ref\Tracker.Core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Data.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Domain.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Data.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Domain.pdb
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.AssemblyReference.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.AssemblyInfoInputs.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.AssemblyInfo.cs
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.CoreCompileInputs.cache
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.CopyComplete
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\ref\Tracker.Core.dll
+E:\GitSafaa\Tracker20-12-2021\Tracker 11-1-2021\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.pdb
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.deps.json
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.dll
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\ref\Tracker.Core.dll
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.pdb
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Data.dll
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Domain.dll
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Data.pdb
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Domain.pdb
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.AssemblyReference.cache
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.AssemblyInfoInputs.cache
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.AssemblyInfo.cs
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.CoreCompileInputs.cache
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.CopyComplete
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.dll
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\ref\Tracker.Core.dll
+E:\GitSafaa\Basic\tryytu\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.deps.json
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\ref\Tracker.Core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Core.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Data.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Domain.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Data.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\bin\Debug\net5.0\Tracker.Domain.pdb
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.AssemblyReference.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.AssemblyInfoInputs.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.AssemblyInfo.cs
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.CoreCompileInputs.cache
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.csproj.CopyComplete
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\ref\Tracker.Core.dll
+E:\GitSafaa\Basic\TrackkerAPI11-1-2022\Tracker.Core\obj\Debug\net5.0\Tracker.Core.pdb
